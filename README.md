@@ -9,4 +9,4 @@
 🎈 Version: 0.0.1 DEV<br>
 💨 Project JSON: [raw JSON](https://dev.hxnrycz.xyz/passwordmanager/raw)
 📰 Description: NodeJS Password manager with encryption of passwords<br>
-👊 [Getting started](#) (docs redirect)
+👊 [Getting started](https://docs.hxnrycz.xyz/projects/password-manager#how-to-use) (docs redirect)
